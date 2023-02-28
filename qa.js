@@ -65,3 +65,5 @@ lista.querySelectorAll('li').forEach(function(ul){
   })
 })
 
+
+console.log('atualizações testes')
